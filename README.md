@@ -1,5 +1,6 @@
-### Hi there 👋
+# Всем привет!
 
+<a href="https://yookassa.ru" target="_blank"><img src="tea-donat.png" alt="Купить мне чай" width="320" height="108"></a>
 <!--
 **hexor-boo/hexor-boo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
