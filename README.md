@@ -1,6 +1,6 @@
 # Hi, there! My name is Alexander. I'm russian writer, programmer and designer.
 
-<a href="https://yookassa.ru" target="_blank"><img src="https://msk-vizitka.jino.ru/image/tea-donat-button.png" alt="Угостить меня чаем" width="320" height="108"></a>
+<a href="https://yookassa.ru" target="_blank"><img src="https://msk-vizitka.myjino.ru/image/tea-donat-button.png" alt="Угостить меня чаем" width="320" height="108"></a>
 <!--
 **hexor-boo/hexor-boo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
