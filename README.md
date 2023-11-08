@@ -1,7 +1,7 @@
 # Hi, there! My name is Alexander.
 # I'm russian writer, programmer and designer.
 
-<a href="https://yookassa.ru" target="_blank"><img src="https://bell-port.site/image/tea-donate-button.png" alt="Tea donate" width="320" height="108"></a>
+<a href="https://yookassa.ru" target="_blank"><img src="image/tea-donate-button.png" alt="Tea donate" width="320" height="108"></a>
 <!--
 **hexor-boo/hexor-boo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
