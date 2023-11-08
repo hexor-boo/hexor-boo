@@ -1,7 +1,8 @@
-# Hi, there! My name is Alexander.
-# I'm russian writer, programmer and designer.
-
-<a href="https://yookassa.ru" target="_blank"><img src="image/tea-donate-button.png" alt="Tea donate" width="320" height="108"></a>
+<h3>
+Hi, there! My name is Alexander.<br>
+I'm russian writer, programmer and designer.<br>
+More details you can find in my "portfolio" repository.
+</h3>
 <!--
 **hexor-boo/hexor-boo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
